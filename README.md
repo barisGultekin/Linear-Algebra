@@ -16,12 +16,11 @@
 
 ## Installation
 
-- All the `code` required to get started
-- Images of what it should look like
+- Only `Python 3` is required to get started.
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/barisGultekin/Linear-Algebra.git`
 
 ### Setup
 
