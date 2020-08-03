@@ -38,11 +38,11 @@ $ brew install python3
 
 ## Features
 
--Solving systems of linear equations 
--Matrices and matrix operations
--Vector spaces; linear transformations
--Eigenvalues and eigenvectors
--Inner products and Gram-Schmidt
+- Solving systems of linear equations 
+- Matrices and matrix operations
+- Vector spaces; linear transformations
+- Eigenvalues and eigenvectors
+- Inner products and Gram-Schmidt
 
 ---
 
