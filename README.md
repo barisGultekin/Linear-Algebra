@@ -1,19 +1,18 @@
-# Linear-Algebra
+# Linear Algebra with Python
 
-> Subtitle or Short Description Goes Here
+> SCHOOL STUFF
 
-> ideally one sentence
+> WHAT DOES IT DO
 
-> include terms/tags that can be searched
+> CRYPTOLOUNGE
 
 ---
 
 ## Table of Contents
 
-> If your `README` has a lot of info, section headers might be nice.
-
 - [Installation](#installation)
 - [Features](#features)
+- [Documentation](#documentation)
 - [Support](#support)
 - [License](#license)
 
@@ -30,22 +29,42 @@
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
+- Only requirement for the project is the recent Python 3 distribution. (Currently 3.8.5)
 
-> update and install this package first
+> update or install Homebrew and install Python 3 with it.
 
 ```shell
 $ brew update
-$ brew install fvcproductions
+$ brew install python3
 ```
 
-> now install npm and bower packages
+---
 
-```shell
-$ npm install
-$ bower install
-```
+## Features
 
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
+###Echelon Detector
+-
+-
+-
+-
+
+###Backend Substitution
+-
+-
+-
+
+###Gaussian Elimination
+
+---
+
+## Documentation
+
+---
+
+## Support
+
+---
+
+## License
 
 ---
