@@ -1,10 +1,6 @@
 # Linear Algebra with Python
 
-> SCHOOL STUFF
-
-> WHAT DOES IT DO
-
-> CRYPTOLOUNGE
+> Izmir Institute of Technology MATH265 Introduction to Linear Algebra
 
 ---
 
@@ -42,18 +38,11 @@ $ brew install python3
 
 ## Features
 
-###Echelon Detector
--
--
--
--
-
-###Backend Substitution
--
--
--
-
-###Gaussian Elimination
+-Solving systems of linear equations 
+-Matrices and matrix operations
+-Vector spaces; linear transformations
+-Eigenvalues and eigenvectors
+-Inner products and Gram-Schmidt
 
 ---
 
