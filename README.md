@@ -1,6 +1,6 @@
-# Linear Algebra with Python
+# Linear Algebra with Python and C
 
-> Izmir Institute of Technology MATH265 Introduction to Linear Algebra
+> MATH265, EE103 Ali Barış Gültekin
 
 ---
 
