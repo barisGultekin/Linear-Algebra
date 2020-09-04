@@ -36,7 +36,10 @@ $ brew install python3
 ---
 
 ## Features
-
+### C
+- String interpolation
+- Matrices and matrix operations
+### Python
 - Solving systems of linear equations 
 - Matrices and matrix operations
 - Vector spaces; linear transformations
@@ -45,14 +48,10 @@ $ brew install python3
 
 ---
 
+## Usage
+
+---
+
 ## Documentation
-
----
-
-## Support
-
----
-
-## License
 
 ---
